@@ -7,3 +7,4 @@ const result3 = variable2 - variable1;
 console.log("result = "+result);
 console.log("result1 = "+result1);
 console.log("result2 = "+result2);
+console.log("result3 = "+result3);
