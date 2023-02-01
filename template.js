@@ -1,5 +1,5 @@
  //  index :         0        1        2       3       4         5        6        7        8         
- const colors = ['orange', 'blue', 'yellow', 'red', 'purple', 'green', 'black', 'white', 'pink'];
+ const colors = ['orange', 'blue', 'yellow', 'red', 'purple', 'green', 'black', 'white', 'pink', 'brown'];
 
  const randomIndex = Math.floor(Math.random() * colors.length );
  
@@ -33,6 +33,9 @@
    case  'pink':
    console.log('the color is pink');
    break; 
+   case  'brown':
+   console.log('the color is brown');
+   break;
    default :
    console.log('no color found');
  } 
