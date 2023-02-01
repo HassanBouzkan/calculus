@@ -1,2 +1,2 @@
 # My App 
-this app shows some calculus.
+this app gives you a random color from 9 colors.
